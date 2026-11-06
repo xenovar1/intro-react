@@ -119,13 +119,13 @@ export default function ShopPage() {
         <main>
             <header>
                 <div>
-                    <Link href="/">Vercel Shop</Link>
+                    <Link href="/">Polite Shop</Link>
                     <Link href="/shop">Shop</Link>
                 </div>
             </header>
 
             <section>
-                <h1>Products</h1>
+                <h1>AA Products</h1>
 
                 <button onClick={() => setShowFilters(!showFilters)}>
                     <svg
